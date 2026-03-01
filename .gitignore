@@ -1,0 +1,13 @@
+*.log
+
+*.tmp
+*.temp
+tmp/
+temp/
+
+venv/
+.venv/
+node_modules/
+
+.DS_Store
+Thumbs.db

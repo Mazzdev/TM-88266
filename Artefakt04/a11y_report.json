@@ -1,0 +1,7 @@
+[
+    {
+        "file": "text_fields.xml",
+        "text": "@string/edit_text_password",
+        "issue": "Missing contentDescription"
+    }
+]

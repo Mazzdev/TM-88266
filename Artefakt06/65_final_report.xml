@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='utf-8'?>
+<testsuite name="FrameworkIntegrityTest" tests="3" failures="0" timestamp="2026-05-02T14:57:22.072722"><testcase name="POM inheritance" status="PASSED" /><testcase name="Markdown audit report" status="PASSED" /><testcase name="Selector map" status="PASSED" /></testsuite>

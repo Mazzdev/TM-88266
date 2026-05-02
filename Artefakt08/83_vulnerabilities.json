@@ -1,0 +1,26 @@
+[
+    {
+        "library": "com.google.android.gms:10.0.1",
+        "severity": "HIGH",
+        "cve": "CVE-2016-XXXX",
+        "description": "Stara wersja Google Play Services"
+    },
+    {
+        "library": "com.squareup.okhttp:2.7.5",
+        "severity": "CRITICAL",
+        "cve": "CVE-2021-0341",
+        "description": "Podatna wersja biblioteki HTTP"
+    },
+    {
+        "library": "org.apache.commons:1.0.0",
+        "severity": "CRITICAL",
+        "cve": "CVE-2019-XXXX",
+        "description": "Ryzyko zdalnego wykonania kodu"
+    },
+    {
+        "library": "com.android.support:25.0.0",
+        "severity": "MEDIUM",
+        "cve": "CVE-2017-XXXX",
+        "description": "Stara biblioteka wsparcia Android"
+    }
+]

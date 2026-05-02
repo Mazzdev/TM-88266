@@ -1,0 +1,17 @@
+>>> ZADANIE 8.4: SECURITY SCORE <<<
+WYNIK KOŃCOWY: 0/100
+STATUS: REJECTED
+
+Potrącenia punktów:
+- LOW: Ryzykowne uprawnienie android.permission.READ_CONTACTS (-5)
+- LOW: Ryzykowne uprawnienie android.permission.WRITE_CONTACTS (-5)
+- LOW: Ryzykowne uprawnienie android.permission.ACCESS_COARSE_LOCATION (-5)
+- LOW: Ryzykowne uprawnienie android.permission.SEND_SMS (-5)
+- LOW: Ryzykowne uprawnienie android.permission.RECEIVE_SMS (-5)
+- LOW: Ryzykowne uprawnienie android.permission.RECORD_AUDIO (-5)
+- LOW: Ryzykowne uprawnienie android.permission.CAMERA (-5)
+- HIGH: Debuggable=true (-30)
+- HIGH: com.google.android.gms:10.0.1 (-30)
+- CRITICAL: com.squareup.okhttp:2.7.5 (-50)
+- CRITICAL: org.apache.commons:1.0.0 (-50)
+- MEDIUM: com.android.support:25.0.0 (-15)
